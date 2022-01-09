@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://drumilt.github.io/sitemap.xml

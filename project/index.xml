@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Drumil Trivedi</title>
+    <link>https://drumilt.github.io/project/</link>
+      <atom:link href="https://drumilt.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://drumilt.github.io/media/icon_hufa3ab55e640865cd6602957e1d5604a0_27267_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://drumilt.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Emotion Conditioned Text to Speech</title>
+      <link>https://drumilt.github.io/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://drumilt.github.io/project/example/</guid>
+      <description>&lt;p&gt;We aim to implement a Neural Network system for generating the speech corresponding to a piece of text, with a small caveat: the generated speech should be directed towards an input emotion, such as angry, sad, happy, shocked etc. The preliminary idea is to join two networks: the first one for a general text to speech conversion and the second one for adding emotions to the waveform output by the first network. Our initial plan is to have the first network (text to speech) take as input, a voice sample and generate the output that sounds similar to the input voice sample.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
